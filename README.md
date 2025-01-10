@@ -1,3 +1,3 @@
 # demo-computer-programming
 
-This was an edit made from my local repo
+This was an edit made from my remote
